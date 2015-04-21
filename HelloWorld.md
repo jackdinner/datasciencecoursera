@@ -2,3 +2,4 @@
 ### Edit 1
 ### Edit successful
 ### Edit 2 (directory moved)
+### Check (original directory deleted)
